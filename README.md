@@ -1,7 +1,8 @@
 # myapp
 
 ## salida del examen
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/f0d09e3d-bf21-4fe0-a31f-6bd20ddc57c0)
+
 
 ## Getting Started
 
